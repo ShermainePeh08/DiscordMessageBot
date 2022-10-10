@@ -1,6 +1,9 @@
 # Discord Message Bot
 Discord Bot built with Python for Techweek 2022
 
+## Demo of Discord Bot Running 
+![Discord Demo](DiscordDemo.gif)</br>
+
 ## Functions:
 - when hello exists in message, the bot will reply with hi.
 - when the message starts with hello, the bot will reply with hello.
