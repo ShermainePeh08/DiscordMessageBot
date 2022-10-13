@@ -2,7 +2,7 @@
 Discord Bot built with Python for Techweek 2022
 
 ## Demo of Discord Bot Running 
-![Discord Demo](DiscordDemo.gif)</br>
+<img src="DiscordDemo.gif" height="500"/><br>
 
 ## Functions:
 - when hello exists in message, the bot will reply with hi.
